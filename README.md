@@ -1,2 +1,2 @@
 # Kalkulatex
-My fucking epic calculator
+My epic calculator
