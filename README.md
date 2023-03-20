@@ -1,3 +1,3 @@
-# Kalkulatex
-Click on the link below... to start computing! \n
+# Calculator
+Click on the link... to start computing!
 https://quarol.github.io/Kalkulatex/
